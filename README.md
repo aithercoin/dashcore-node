@@ -31,7 +31,7 @@ You also might want to add these index to your dash.conf file :
 ### As a library
 
 ```bash
-npm install @dashevo/dashcore-node
+npm install @flus38765/aither-node
 ```
 
 ```javascript

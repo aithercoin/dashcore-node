@@ -1,5 +1,5 @@
 {
-  "name": "@dashevo/dashcore-node",
+  "name": "@flus38765/aither-node",
   "description": "Full node with extended capabilities using Dashcore and Dash Core (dashd)",
   "author": "BitPay <dev@bitpay.com>",
   "version": "4.0.0",
@@ -43,8 +43,8 @@
     "dashd"
   ],
   "dependencies": {
-    "@dashevo/dashcore-lib": "^0.15.5",
-    "@dashevo/dashd-rpc": "^1.0.1",
+    "@flus38765/aither-lib": "^0.15.5",
+    "@flus38765/aither-rpc": "^1.0.1",
     "async": "^1.3.0",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
@@ -66,7 +66,7 @@
   },
   "devDependencies": {
     "benchmark": "1.0.0",
-    "@dashevo/dashcore-p2p": "^1.1.6",
+    "@flus38765/aither-p2p": "^1.1.6",
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.3",
